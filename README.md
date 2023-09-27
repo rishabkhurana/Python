@@ -1,2 +1,2 @@
 # Python
-#created by RISHAB KHURANA
+created by RISHAB KHURANA
